@@ -3,4 +3,4 @@ This repository contains code of all my solidity language tutorial videos. To wa
 
 
 Will be available soon !!!
-sorry foe delay
+sorry for delay
